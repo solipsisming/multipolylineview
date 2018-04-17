@@ -1,6 +1,6 @@
 # multipolylineview
 
-<cn.com.ming.mutilpolylineview.MutilPolylineView
+ <cn.com.ming.mutilpolylineview.MutilPolylineView
     android:id="@+id/mutilPolylineView"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
