@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MultiPolylineView">
+        <attr name="viewBackground" format="color" />
+        <attr name="lineColor" format="color" />
+        <attr name="pointColor" format="color" />
+        <attr name="axisColor" format="color" />
+        <attr name="leftYAxisTextColor" format="color" />
+        <attr name="rightYAxisTextColor" format="color" />
+        <attr name="xAxisTextColor" format="color" />
+        <attr name="maxPointColor" format="color" />
+        <attr name="minPointColor" format="color" />
+        <attr name="yAxisTypeMargin" format="dimension" />
+        <attr name="xAxisTextSize" format="dimension" />
+        <attr name="leftYAxisTextSize" format="dimension" />
+        <attr name="rightYAxisTextSize" format="dimension" />
+        <attr name="pointRadius" format="integer" />
+        <attr name="lineWidth" format="integer" />
+        <attr name="axisWidth" format="integer" />
+        <attr name="xAxisShowNum" format="integer" />
+        <attr name="yAxisShowNum" format="integer" />
+    </declare-styleable>
+</resources>

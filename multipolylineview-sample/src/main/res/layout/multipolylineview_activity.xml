@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0488B0">
+
+    <solipsisming.multipolylineview.MultiPolylineView
+        android:id="@+id/multiPolylineView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <!--        app:axisColor="#FF0000"
+            app:axisWidth="2"
+            app:leftYAxisTextColor="#00FF00"
+            app:leftYAxisTextSize="20sp"
+            app:lineColor="#0000FF"
+            app:lineWidth="3"
+            app:maxPointColor="#F0000F"
+            app:minPointColor="#000FF0"
+            app:pointColor="#F0F0F0"
+            app:pointRadius="2"
+            app:rightYAxisTextColor="#0FF000"
+            app:rightYAxisTextSize="20sp"
+            app:viewBackground="#0F000F"
+            app:xAxisShowNum="5"
+            app:xAxisTextColor="#00F000"
+            app:xAxisTextSize="20sp"
+            app:yAxisShowNum="5"
+            app:yAxisTypeMargin="20dp"-->
+
+</LinearLayout>
